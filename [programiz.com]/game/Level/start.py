@@ -1,0 +1,2 @@
+def selectdifficulty():
+    pass
